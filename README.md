@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### About me
-- 🌱 I’m currently learning JavaScript, React
+- 🌱 I’m currently learning JavaScript, React.
 
 ![React](https://img.shields.io/badge/-React-553344?style=flat-square&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-553344?style=flat-square&logo=JavaScript)
