@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### About me
+- 🌱 I’m currently learning JavaScript, React
+
+![React](https://img.shields.io/badge/-React-553344?style=flat-square&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-553344?style=flat-square&logo=JavaScript)
+
 <!--
 **chesterchenn/chesterchenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
