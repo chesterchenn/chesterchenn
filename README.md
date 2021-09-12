@@ -6,3 +6,4 @@
 
 ![React](https://img.shields.io/badge/-React-553344?style=flat-square&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-553344?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TavaScript-553344?style=flat-square&logo=TypeScript)
